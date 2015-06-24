@@ -1,0 +1,29 @@
+
+
+
+#home {
+	background:url('space.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	z-index: 0;
+}
+
+#intro {
+	background:url('img/waterdrop.jpg') no-repeat center center relative;
+		-webkit-background-size: cover;
+	  	-moz-background-size: cover;
+	  	-o-background-size: cover;
+	  	background-size: cover;
+	  	z-index: 1
+}
+
+#shade {
+	background-color: black;
+	opacity: 0.5;
+	background-size: cover;
+	z-index: 2;
+	width: 1000px;
+	height: 1000px;
+}
